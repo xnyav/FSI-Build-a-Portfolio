@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(87, 8, 8);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+cursor: grabbing;
+}
+
+#code-image {
+border-radius: 25px;
+border: 2px solid darkolivegreen;
+height: 50%:
+width: 50%:  
+
+}
+.header-centered {
+    text-align: center;
+}
